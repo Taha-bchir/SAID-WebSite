@@ -1,0 +1,157 @@
+body {
+    font-family: comic sans MS;
+    margin: 0;
+    padding: 0;
+    background-image: url('luxa.org-opacity-changed-gt.jpg');
+    background-size: auto;
+    color: #333;
+    display: fixed;
+}
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #997273;
+    color: #fff;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.oo{
+    position: fixed; bottom: 550px;
+}
+
+.logo {
+    margin: 0;
+    font-size: 24px;
+}
+
+.nav {
+    float: right;
+}
+
+.hh{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.h{
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.hero {
+    background-image: url('luxa.org-opacity-changed-bc.jpg');
+    background-size: 1200px;
+    color: #1b1a1a;
+    text-align: center;
+    padding: 200px 0;
+}
+
+.hero-title {
+    margin-bottom: 20px;
+}
+
+.hero-description {
+    font-size: 18px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #472c22;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #68483e;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.section-description {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.product {
+    margin-bottom: 40px;
+}
+
+.zzz {
+    display: inline-flex;
+    margin: 40px;
+    text-align: center;
+  }
+
+  .zz {
+    display: inline-flex;
+    margin: 40px;
+    text-align: center;
+  }
+
+  .z {
+    display: inline-flex;
+    margin: 40px;
+    text-align: center;
+  }
+
+
+.product img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.footer {
+    background-color: #997273;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-text {
+    margin: 0;
+}
